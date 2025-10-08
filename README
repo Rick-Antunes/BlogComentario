@@ -1,0 +1,37 @@
+# Meu Projeto
+
+<<<<<<< HEAD
+Descrição breve do projeto. Explique o que ele faz e para que serve.
+=======
+Descrição breve do projeto.
+>>>>>>> 689446a (first commit)
+
+## Pré-requisitos
+- Python 3.10+ (ou a versão que você estiver usando)
+- Virtualenv (recomendado)
+
+## Instalação e execução
+<<<<<<< HEAD
+=======
+No terminal:
+python -m venv .venv
+para criar o amviente virtual
+
+>>>>>>> 689446a (first commit)
+Ative o ambiente virtual:
+
+No Windows:
+.venv\Scripts\activate
+
+No Linux/Mac:
+source .venv/bin/activate
+
+Instale as dependências:
+pip install -r requirements.txt
+
+Execute o projeto:
+python main.py
+
+## Observações
+- Certifique-se de estar no diretório correto antes de executar os comandos.
+- O arquivo `requirements.txt` deve conter todas as dependências necessárias.
